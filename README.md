@@ -1,3 +1,5 @@
+![Capture Expense Tracker  drawio](https://github.com/Powerlearnproject/week-1-assignment-kartinisky1/assets/171802907/c222c575-df1b-46fb-be76-5bfc0f74e31a)
+[DATABASE ASSIGNMENT WEEK ONE EXPENSE TRACKER.pdf](https://github.com/user-attachments/files/16090205/DATABASE.ASSIGNMENT.WEEK.ONE.EXPENSE.TRACKER.pdf)
 # Week 1: Introduction & Foundational Skills (Focus on Project Relevance)
 
 This week, we'll be diving into the exciting world of SQL and databases! We'll explore what SQL is used for, how it benefits web applications, and the building blocks of databases: tables, columns, and data types. But most importantly, we'll get our hands dirty by creating a basic database structure for our upcoming Expense Tracker project!
